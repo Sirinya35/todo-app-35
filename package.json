@@ -20,5 +20,13 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.14"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sirinya35/todo-app-35.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sirinya35/todo-app-35/issues"
+  },
+  "homepage": "https://github.com/Sirinya35/todo-app-35#readme"
 }
